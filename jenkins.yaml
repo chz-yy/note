@@ -1,0 +1,211 @@
+credentials:
+  system:
+    domainCredentials:
+    - credentials:
+      - basicSSHUserPrivateKey:
+          id: "blake-ssh-key"
+          privateKeySource:
+            directEntry:
+              privateKey: "{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}"
+          scope: GLOBAL
+          username: "Blake"
+          usernameSecret: true
+jenkins:
+  agentProtocols:
+  - "JNLP4-connect"
+  - "Ping"
+  authorizationStrategy:
+    loggedInUsersCanDoAnything:
+      allowAnonymousRead: false
+  crumbIssuer:
+    standard:
+      excludeClientIPFromCrumb: false
+  disableRememberMe: false
+  disabledAdministrativeMonitors:
+  - "hudson.util.DoubleLaunchChecker"
+  labelAtoms:
+  - name: "built-in"
+  markupFormatter: "plainText"
+  mode: NORMAL
+  myViewsTabBar: "standard"
+  nodeMonitors:
+  - "architecture"
+  - "clock"
+  - diskSpace:
+      freeSpaceThreshold: "1GiB"
+      freeSpaceWarningThreshold: "2GiB"
+  - "swapSpace"
+  - tmpSpace:
+      freeSpaceThreshold: "1GiB"
+      freeSpaceWarningThreshold: "2GiB"
+  - "responseTime"
+  numExecutors: 2
+  primaryView:
+    all:
+      name: "all"
+  projectNamingStrategy: "standard"
+  quietPeriod: 5
+  remotingSecurity:
+    enabled: true
+  scmCheckoutRetryCount: 0
+  securityRealm:
+    local:
+      allowsSignup: false
+      enableCaptcha: false
+      users:
+      - id: "blake"
+        name: "Yunfeng Yang"
+        properties:
+        - "consoleUrlProvider"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "theme"
+        - "timezone"
+        - "experimentalFlags"
+        - mailer:
+            emailAddress: "Blake-Peak@outlook.com"
+        - "apiToken"
+      - id: "blakeke"
+        name: "blake"
+        properties:
+        - "apiToken"
+        - "consoleUrlProvider"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "theme"
+        - "timezone"
+        - "experimentalFlags"
+        - mailer:
+            emailAddress: "abcde228866@126.com"
+      - id: "chz"
+        name: "chz"
+        properties:
+        - "apiToken"
+        - "consoleUrlProvider"
+        - "mailer"
+        - "myView"
+        - preferredProvider:
+            providerId: "default"
+        - "theme"
+        - "timezone"
+        - "experimentalFlags"
+  slaveAgentPort: 50000
+  updateCenter:
+    sites:
+    - id: "default"
+      url: "https://updates.jenkins.io/update-center.json"
+  views:
+  - all:
+      name: "all"
+  viewsTabBar: "standard"
+globalCredentialsConfiguration:
+  configuration:
+    providerFilter: "none"
+    typeFilter: "none"
+appearance:
+  pipelineGraphView:
+    showGraphOnBuildPage: false
+    showGraphOnJobPage: false
+  prism:
+    theme: PRISM
+  themeManager:
+    disableUserThemes: false
+security:
+  apiToken:
+    creationOfLegacyTokenEnabled: false
+    tokenGenerationOnCreationEnabled: false
+    usageStatisticsEnabled: true
+  cps:
+    hideSandbox: false
+  gitHooks:
+    allowedOnAgents: false
+    allowedOnController: false
+  gitHostKeyVerificationConfiguration:
+    sshHostKeyVerificationStrategy: "knownHostsFileVerificationStrategy"
+unclassified:
+  buildDiscarders:
+    configuredBuildDiscarders:
+    - "jobBuildDiscarder"
+  buildStepOperation:
+    enabled: false
+  email-ext:
+    adminRequiredForTemplateTesting: false
+    allowUnregisteredEnabled: false
+    charset: "UTF-8"
+    debugMode: false
+    defaultBody: |-
+      $PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS:
+
+      Check console output at $BUILD_URL to view the results.
+    defaultContentType: "text/plain"
+    defaultSubject: "$PROJECT_NAME - Build # $BUILD_NUMBER - $BUILD_STATUS!"
+    defaultTriggerIds:
+    - "hudson.plugins.emailext.plugins.trigger.FailureTrigger"
+    maxAttachmentSize: -1
+    maxAttachmentSizeMb: -1
+    precedenceBulk: false
+    watchingEnabled: false
+  enrichedSummaryConfig:
+    enrichedSummaryEnabled: false
+    httpClientDelayBetweenRetriesInSeconds: 1
+    httpClientMaxRetries: 3
+    httpClientTimeoutInSeconds: 1
+  fingerprints:
+    fingerprintCleanupDisabled: false
+    storage: "file"
+  gitHubConfiguration:
+    apiRateLimitChecker: ThrottleForNormalize
+  gitHubPluginConfig:
+    hookUrl: "http://localhost:9001/jenkins/github-webhook/"
+  globalTimeOutConfiguration:
+    operations:
+    - "abortOperation"
+    overwriteable: false
+  injectionConfig:
+    allowUntrusted: false
+    checkForBuildAgentErrors: false
+    enabled: false
+    enforceUrl: false
+    gradleCaptureTaskInputFiles: true
+    injectCcudExtension: false
+    injectMavenExtension: false
+    mavenCaptureGoalInputFiles: true
+  junitTestResultStorage:
+    storage: "file"
+  location:
+    adminAddress: "abcde228866@126.com"
+    url: "http://localhost:9001/jenkins/"
+  mailer:
+    authentication:
+      password: "{AQAAABAAAAAgeFEr8Gd/Ek4NEeeaYfHSYzmuUnT7UtYgkM5OJm+NtL5rlfab7B8Sf3IEFtB5azBR}"
+      username: "abcde228866@126.com"
+    charset: "UTF-8"
+    replyToAddress: "abcde228866@126.com"
+    smtpHost: "smtp.126.com"
+    smtpPort: "465"
+    useSsl: true
+    useTls: false
+  pollSCM:
+    pollingThreadCount: 10
+  scmGit:
+    addGitTagAction: false
+    allowSecondFetch: false
+    createAccountBasedOnEmail: false
+    disableGitToolChooser: false
+    hideCredentials: false
+    showEntireCommitSummaryInChanges: false
+    useExistingAccountWithSameEmail: false
+  timestamper:
+    allPipelines: false
+    elapsedTimeFormat: "'<b>'HH:mm:ss.S'</b> '"
+    systemTimeFormat: "'<b>'HH:mm:ss'</b> '"
+tool:
+  git:
+    installations:
+    - home: "git"
+      name: "Default"
+  mavenGlobalConfig:
+    globalSettingsProvider: "standard"
+    settingsProvider: "standard"
