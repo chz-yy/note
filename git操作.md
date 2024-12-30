@@ -30,3 +30,7 @@
     >
     >git merge origin/master 当git pull拉取代码失败时，需要git merge合并代码
 
+11. ```shell
+    git restore .  撤销所有修改（恢复到上次提交的状态）
+    git clean -fd   清除未跟踪的文件 -f 代表强制删除，-d 删除未跟踪的目录。  
+    ```
